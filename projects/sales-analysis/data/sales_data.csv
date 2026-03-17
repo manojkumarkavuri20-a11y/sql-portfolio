@@ -1,0 +1,21 @@
+order_id,customer_id,order_date,region,total_amount,product_id,product_name,category,quantity,unit_price
+  1001,C001,2024-01-05,West,245.50,P001,Wireless Mouse,Electronics,2,49.99
+  1002,C002,2024-01-08,East,189.00,P005,Office Chair,Furniture,1,189.00
+  1003,C003,2024-01-12,West,67.50,P010,Notebook Set,Stationery,3,22.50
+  1004,C001,2024-01-15,West,399.99,P002,Mechanical Keyboard,Electronics,1,399.99
+  1005,C004,2024-01-20,South,125.00,P008,Desk Lamp,Furniture,1,125.00
+  1006,C005,2024-02-02,North,85.00,P012,Pen Premium Pack,Stationery,5,17.00
+  1007,C006,2024-02-08,East,549.00,P003,Monitor 27inch,Electronics,1,549.00
+  1008,C002,2024-02-14,East,45.00,P011,Sticky Notes Bulk,Stationery,10,4.50
+  1009,C007,2024-02-20,West,299.99,P004,USB-C Hub,Electronics,1,299.99
+  1010,C008,2024-02-25,South,350.00,P006,Standing Desk,Furniture,1,350.00
+  1011,C003,2024-03-03,West,159.98,P001,Wireless Mouse,Electronics,2,49.99
+  1012,C009,2024-03-10,North,275.00,P007,Bookshelf,Furniture,1,275.00
+  1013,C010,2024-03-15,East,799.99,P002,Mechanical Keyboard,Electronics,2,399.99
+  1014,C004,2024-03-22,South,67.50,P010,Notebook Set,Stationery,3,22.50
+  1015,C011,2024-04-01,West,549.00,P003,Monitor 27inch,Electronics,1,549.00
+  1016,C012,2024-04-08,North,189.00,P005,Office Chair,Furniture,1,189.00
+  1017,C001,2024-04-15,West,125.00,P008,Desk Lamp,Furniture,1,125.00
+  1018,C013,2024-04-22,East,85.00,P012,Pen Premium Pack,Stationery,5,17.00
+  1019,C005,2024-05-01,North,699.98,P003,Monitor 27inch,Electronics,2,349.99
+  1020,C014,2024-05-10,South,450.00,P006,Standing Desk,Furniture,1,450.00
