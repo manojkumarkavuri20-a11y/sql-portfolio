@@ -4,8 +4,6 @@
 
 A curated collection of SQL projects, practice problems, and notes demonstrating analytical skills for Business Analyst and Data Analyst roles.
 
----
-
 ## 👀 Quick Start for Recruiters
 
 | If you want to see... | Go here |
@@ -15,8 +13,6 @@ A curated collection of SQL projects, practice problems, and notes demonstrating
 | Funnel & conversion analysis | [`projects/funnel-analysis/`](projects/funnel-analysis/) |
 | HackerRank Advanced SQL solutions | [`practice/hackerrank/`](practice/hackerrank/) |
 | Window functions deep dive | [`notes/window-functions.md`](notes/window-functions.md) |
-
----
 
 ## Repository Structure
 
@@ -48,8 +44,6 @@ sql-portfolio/
     └── window-functions.md      ← SQL concept deep-dives
 ```
 
----
-
 ## Projects
 
 ### 1. Sales Analysis
@@ -68,8 +62,6 @@ sql-portfolio/
 
 ➡️ [View Project](projects/sales-analysis/)
 
----
-
 ### 2. Customer Segmentation (RFM)
 
 **Business Question:** How can we segment customers using RFM analysis and track cohort retention?
@@ -87,8 +79,6 @@ sql-portfolio/
 
 ➡️ [View Project](projects/customer-segmentation/)
 
----
-
 ### 3. Funnel Analysis
 
 **Business Question:** Where in the conversion funnel are customers dropping off, and what is the stage-by-stage conversion rate?
@@ -97,16 +87,12 @@ sql-portfolio/
 
 ➡️ [View Project](projects/funnel-analysis/)
 
----
-
 ## Practice Problems
 
 | Platform | Difficulty | Focus Area | Certified |
 |---|---|---|---|
 | HackerRank | Advanced | Aggregations, Window Functions, CTEs | ✅ SQL Advanced Certificate |
 | LeetCode | Medium/Hard | JOINs, Subqueries, Edge Cases | ✅ |
-
----
 
 ## SQL Skills Covered
 
@@ -121,19 +107,15 @@ sql-portfolio/
 | RFM Scoring | Customer Segmentation |
 | Conversion Funnel Analysis | Funnel Analysis |
 
----
-
 ## Tools
 
 - **PostgreSQL** — Primary database engine
 - **DB Fiddle** — Live runnable query links
 - **GitHub** — Version control and portfolio hosting
 
----
-
 ## About
 
-**Manoj Kumar Kavuri** — Graduate Business & Operations Analyst  
+**Manoj Kumar Kavuri** — Graduate Business & Operations Analyst
 MSc International Business (Distinction) | HackerRank SQL Advanced Certified
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manojkumarkavuri/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/manojkumarkavuri20-a11y)
