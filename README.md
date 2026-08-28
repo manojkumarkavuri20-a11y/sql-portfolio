@@ -4,7 +4,7 @@
 
 A curated collection of SQL projects, practice problems, and notes demonstrating analytical skills for Business Analyst and Data Analyst roles.
 
-## 👀 Quick Start for Recruiters
+## Quick Start for Recruiters
 
 | If you want to see... | Go here |
 |---|---|
@@ -13,6 +13,7 @@ A curated collection of SQL projects, practice problems, and notes demonstrating
 | Funnel & conversion analysis | [`projects/funnel-analysis/`](projects/funnel-analysis/) |
 | HackerRank Advanced SQL solutions | [`practice/hackerrank/`](practice/hackerrank/) |
 | Window functions deep dive | [`notes/window-functions.md`](notes/window-functions.md) |
+| How this repo was built (start to finish) | [`BLUEPRINT.md`](BLUEPRINT.md)  |
 
 ## Repository Structure
 
@@ -20,6 +21,7 @@ A curated collection of SQL projects, practice problems, and notes demonstrating
 sql-portfolio/
 |
 ├── README.md                    ← You are here
+├── BLUEPRINT.md            ← Start-to-finish build logic
 ├── projects/
 |   ├── sales-analysis/
 |   |   ├── README.md            ← Problem, approach, findings
@@ -60,7 +62,7 @@ sql-portfolio/
 | Clothing | £98,200 | 2 | -2.1% |
 | Home & Garden | £76,800 | 3 | +12.4% |
 
-➡️ [View Project](projects/sales-analysis/)
+ [View Project](projects/sales-analysis/)
 
 ### 2. Customer Segmentation (RFM)
 
@@ -77,7 +79,7 @@ sql-portfolio/
 | At Risk | 456 | £89 | 31% |
 | Lost | 213 | £42 | 8% |
 
-➡️ [View Project](projects/customer-segmentation/)
+ [View Project](projects/customer-segmentation/)
 
 ### 3. Funnel Analysis
 
@@ -85,7 +87,7 @@ sql-portfolio/
 
 **Skills demonstrated:** CTEs, Window Functions, CASE WHEN, conversion rate calculations
 
-➡️ [View Project](projects/funnel-analysis/)
+ [View Project](projects/funnel-analysis/)
 
 ## Practice Problems
 
@@ -110,7 +112,7 @@ sql-portfolio/
 ## Tools
 
 - **PostgreSQL** — Primary database engine
-- **DB Fiddle** — Live runnable query links
+- **psql** — every `queries.sql` file is written and tested against plain PostgreSQL, no extensions required
 - **GitHub** — Version control and portfolio hosting
 
 ## About
