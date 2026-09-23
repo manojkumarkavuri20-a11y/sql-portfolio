@@ -13,37 +13,37 @@ A curated collection of SQL projects, practice problems, and notes demonstrating
 | Funnel & conversion analysis | [`projects/funnel-analysis/`](projects/funnel-analysis/) |
 | HackerRank Advanced SQL solutions | [`practice/hackerrank/`](practice/hackerrank/) |
 | Window functions deep dive | [`notes/window-functions.md`](notes/window-functions.md) |
-| How this repo was built (start to finish) | [`BLUEPRINT.md`](BLUEPRINT.md)  |
+| How this repo was built (start to finish) | [`BLUEPRINT.md`](BLUEPRINT.md) |
 
 ## Repository Structure
 
 ```
 sql-portfolio/
 |
-├── README.md                    ← You are here
-├── BLUEPRINT.md            ← Start-to-finish build logic
+├── README.md ← You are here
+├── BLUEPRINT.md ← Start-to-finish build logic
 ├── projects/
-|   ├── sales-analysis/
-|   |   ├── README.md            ← Problem, approach, findings
-|   |   ├── data/                ← Sample data (CSV)
-|   |   ├── queries.sql          ← All SQL queries
-|   |   └── results/             ← Output CSVs
-|   ├── customer-segmentation/
-|   |   ├── README.md
-|   |   ├── data/
-|   |   ├── queries.sql
-|   |   └── results/
-|   └── funnel-analysis/
-|       ├── README.md
-|       ├── data/
-|       └── queries.sql
+| ├── sales-analysis/
+| | ├── README.md ← Problem, approach, findings
+| | ├── data/ ← Sample data (CSV)
+| | ├── queries.sql ← All SQL queries
+| | └── results/ ← Output CSVs
+| ├── customer-segmentation/
+| | ├── README.md
+| | ├── data/
+| | ├── queries.sql
+| | └── results/
+| └── funnel-analysis/
+| ├── README.md
+| ├── data/
+| └── queries.sql
 ├── practice/
-|   ├── hackerrank/
-|   |   └── README.md            ← HackerRank SQL solutions
-|   └── leetcode/
-|       └── README.md            ← LeetCode SQL solutions
+| ├── hackerrank/
+| | └── README.md ← HackerRank SQL solutions
+| └── leetcode/
+| └── README.md ← LeetCode SQL solutions
 └── notes/
-    └── window-functions.md      ← SQL concept deep-dives
+└── window-functions.md ← SQL concept deep-dives
 ```
 
 ## Projects
@@ -62,7 +62,7 @@ sql-portfolio/
 | Clothing | £98,200 | 2 | -2.1% |
 | Home & Garden | £76,800 | 3 | +12.4% |
 
- [View Project](projects/sales-analysis/)
+[View Project](projects/sales-analysis/)
 
 ### 2. Customer Segmentation (RFM)
 
@@ -79,7 +79,7 @@ sql-portfolio/
 | At Risk | 456 | £89 | 31% |
 | Lost | 213 | £42 | 8% |
 
- [View Project](projects/customer-segmentation/)
+[View Project](projects/customer-segmentation/)
 
 ### 3. Funnel Analysis
 
@@ -87,7 +87,7 @@ sql-portfolio/
 
 **Skills demonstrated:** CTEs, Window Functions, CASE WHEN, conversion rate calculations
 
- [View Project](projects/funnel-analysis/)
+[View Project](projects/funnel-analysis/)
 
 ## Practice Problems
 
@@ -111,13 +111,13 @@ sql-portfolio/
 
 ## Tools
 
-- **PostgreSQL** — Primary database engine
-- **psql** — every `queries.sql` file is written and tested against plain PostgreSQL, no extensions required
-- **GitHub** — Version control and portfolio hosting
+- **PostgreSQL** - Primary database engine
+- **psql** - every `queries.sql` file is written and tested against plain PostgreSQL, no extensions required
+- **GitHub** - Version control and portfolio hosting
 
 ## About
 
-**Manoj Kumar Kavuri** — Graduate Business & Operations Analyst
+**Manoj Kumar Kavuri** - Graduate Business & Operations Analyst
 MSc International Business (Distinction) | HackerRank SQL Advanced Certified
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manojkumarkavuri/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/manojkumarkavuri20-a11y)
